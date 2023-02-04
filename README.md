@@ -4,7 +4,7 @@
 下载连接：geph.io 需翻墙
 2：小牛VPN：速度快，免费，win版维修好久了
 下载链接：aoxvpn.com
-3：xx-net：没有过，据说可以
+3：xx-net：没用过，据说可以
 下载链接：https://github.com/XX-net/XX-Net
 4：ikuuu VPN：翻墙机场，稳定运营好几年了，速度和稳定性都不错
 官网链接：https://ikuuu.dev/auth/register?code=TOlh
